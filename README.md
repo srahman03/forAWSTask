@@ -54,4 +54,4 @@ The goal of this project is to:
 
 ---
 
-🎯 **Project By:** [Sadika]   
+🎯 **Project By:** Sadika
